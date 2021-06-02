@@ -1,6 +1,6 @@
 <h1 align="center">Hello everybody! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> <br> I'm William Santos</h1>
 <h3 align="center">A  physicist and programming student</h3>
-<h2> Very welcome!</h2>
+<h2 align="center"> Very welcome!</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wolf877" alt="william" /> </p>
 
