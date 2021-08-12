@@ -24,9 +24,11 @@
 
 <p align="center">
 <img src="https://cdn.glitch.com/163f40e3-d474-44e5-b34c-45f7b54ec166%2Fthumbnails%2Fpngaaa.com-619282.png?1622053606614" alt="python" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+<img src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor" alt="typescript" width="20" height="20"/>
+<img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" alt="nodejs" width="20" height="20"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
 <img src="https://cdn.glitch.com/163f40e3-d474-44e5-b34c-45f7b54ec166%2F8EXPe.png?v=1622055951733" alt="latex" width="20" height="20"/>
  
 <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
