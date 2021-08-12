@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS**
+- 🌱 I’m currently learning **JavaScript, Node.js, Typescript**
 
 - 👯 I’m looking to collaborate on Python projects
 
